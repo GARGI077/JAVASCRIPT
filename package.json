@@ -1,0 +1,24 @@
+{
+  "name": "mern-development",
+  "version": "1.0.0",
+  "description": "complete mern stack development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GARGI077/MERN-DEVELOPMENT.git"
+  },
+  "keywords": [
+    "MERN",
+    "full",
+    "stack"
+  ],
+  "author": "Gargi Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GARGI077/MERN-DEVELOPMENT/issues"
+  },
+  "homepage": "https://github.com/GARGI077/MERN-DEVELOPMENT#readme"
+}
